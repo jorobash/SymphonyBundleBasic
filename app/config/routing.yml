@@ -1,0 +1,4 @@
+joro:
+    resource: "@JoroBundle/Controller/"
+    type:     annotation
+    prefix:   /
